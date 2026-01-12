@@ -26,3 +26,7 @@ Users can choose from:
 - `gpt-4`
 - `gpt-4-turbo`
 
+👉 **Watch the demo:**  
+<p align="center">
+  <img src="Openai_Q&A_Chatbot.png" width="700"/>
+</p>
